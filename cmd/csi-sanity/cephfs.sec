@@ -1,0 +1,51 @@
+CreateVolumeSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+DeleteVolumeSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+ControllerPublishVolumeSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+ControllerUnpublishVolumeSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+ControllerValidateVolumeCapabilitiesSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+NodeStageVolumeSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+NodePublishVolumeSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+CreateSnapshotSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+DeleteSnapshotSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+ControllerExpandVolumeSecret:
+  userID: aaa
+  userKey: aaa
+  authSupported: none
+  encryptionPassphrase: test_passphrase
+
